@@ -1,0 +1,18 @@
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\bin\Debug\JuniorVBA.exe
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\bin\Debug\JuniorVBA.pdb
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\bin\Debug\JuniorVBA.xml
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\obj\x86\Debug\JuniorVBA.Form1.resources
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\obj\x86\Debug\JuniorVBA.Resources.resources
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\obj\x86\Debug\JuniorVBA.vbproj.GenerateResource.Cache
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\obj\x86\Debug\JuniorVBA.exe
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\obj\x86\Debug\JuniorVBA.xml
+C:\Users\Arnaud\AppData\Local\Temporary Projects\JuniorVBA\obj\x86\Debug\JuniorVBA.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\obj\x86\Debug\JuniorVBA.exe
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\obj\x86\Debug\JuniorVBA.xml
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\obj\x86\Debug\JuniorVBA.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\bin\Debug\JuniorVBA.exe
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\bin\Debug\JuniorVBA.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\bin\Debug\JuniorVBA.xml
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\obj\x86\Debug\JuniorVBA.Form1.resources
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\obj\x86\Debug\JuniorVBA.Resources.resources
+C:\Users\Arnaud\Documents\Visual Studio 2010\Projects\JuniorVBA\JuniorVBA\obj\x86\Debug\JuniorVBA.vbproj.GenerateResource.Cache
